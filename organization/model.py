@@ -19,7 +19,7 @@ from __init__ import timeDecor
 
 embedding_dim = 12
 nb_pool = 2
-nb_epoch = 1
+nb_epoch = 10
 savedFile = ''
 
 
